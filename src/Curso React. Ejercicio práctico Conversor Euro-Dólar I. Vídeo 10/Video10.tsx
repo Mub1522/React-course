@@ -45,7 +45,7 @@ const Video10 = () => {
             <br />
             <Button onClick={convertCurrency} text='Convert'></Button>
             <br />
-            <span ref={resultRef}></span>
+            <span ref={resultRef} style={labelStyles}></span>
         </div>
     </>
 }
