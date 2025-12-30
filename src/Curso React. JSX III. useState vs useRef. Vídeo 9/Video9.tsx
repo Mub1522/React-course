@@ -1,5 +1,5 @@
 import '../Styles/Index.css';
-import thisIsFine from '../Assets/this-is-fine.gif';
+import thisIsFine from '../Assets/Gifs/this-is-fine.gif';
 import Button from '../Components/Button';
 import { useRef } from 'react';
 
